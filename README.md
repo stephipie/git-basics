@@ -5,4 +5,4 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
 Dies nutzen wir, um eine Routine innerhalb von Git zu entwickeln.
 Wir wollen insgesamt 20 changes, commits und pushes erzeugen.
 
-adding
+
