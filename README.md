@@ -6,3 +6,4 @@ Dies nutzen wir, um eine Routine innerhalb von Git zu entwickeln.
 
 Test1
 Test2
+Test3
